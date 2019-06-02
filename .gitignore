@@ -68,6 +68,3 @@ android/app/.project
 android/.settings
 android/app/.settings
 android/app/.classpath
-
-system.js
-TestCoverageReportTemp
